@@ -1,0 +1,38 @@
+{"restaurants":[
+  {"id":1,
+  "name":"La rose des sables",
+  "adresse":"Rue Jules Destre Quaregnon 172",
+  "cp":"7000 MONS",
+  "cuisine":"Tunisienne"
+  },
+  {"id":2,
+    "name":"Dream",
+    "adresse":"Rue de la grande Triperie 17",
+    "cp":" 7000 MONS",
+    "cuisine":"Brasserie"
+  },
+  {"id":3,
+    "name":"Cia Ciao",
+    "adresse":"Rue Fernand Maréchal 50",
+    "cp":" 7000 MONS",
+    "cuisine":"Italienne"
+  },
+  {"id":4,
+    "name":"Le Belvédère Bis",
+    "adresse":"Place Léopold 15",
+    "cp":" 7000 MONS",
+    "cuisine":"Italienne"
+  },
+  {"id":5,
+    "name":"L'envers",
+    "adresse":"Rue de la Coupe 20",
+    "cp":" 7000 MONS",
+    "cuisine":"Brasserie"
+  },
+  {"id":6,
+    "name":"La petite Provence",
+    "adresse":"Grand Place 26",
+    "cp":" 7000 MONS",
+    "cuisine":"Grillades"
+  },
+]}

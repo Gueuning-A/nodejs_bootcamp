@@ -1,4 +1,4 @@
-'use strict';
+'use strict'; // permet d'utiliser le let à la place de var
 var fs= require('fs'),
 _=require('lodash');
 function friends(cb){

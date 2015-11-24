@@ -1,0 +1,12 @@
+db.restaurants.insert([
+{name:"Chez Gilles",
+address:{
+  street: "rues des gens marrants",
+  number: 23,
+  city:"Mons",
+  zip:"7000",
+}
+phone:"0032485698741",
+type:"",
+rating:""},
+]);
