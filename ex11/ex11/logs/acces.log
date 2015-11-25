@@ -1,0 +1,4 @@
+::1 - - [25/Nov/2015:10:46:03 +0000] "DELETE /api/restaurants/5654402d2f4a8121962a47bf HTTP/1.1" 200 36 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36"
+::1 - - [25/Nov/2015:10:46:08 +0000] "GET /api/restaurants HTTP/1.1" 200 275 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36"
+::1 - - [25/Nov/2015:10:48:08 +0000] "POST /api/restaurants HTTP/1.1" - - "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36"
+::1 - - [25/Nov/2015:10:50:08 +0000] "POST /api/restaurants HTTP/1.1" - - "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36"
